@@ -12,7 +12,9 @@
 ***По мимо библиотек нужно установить локальную ИИ mistral через ollama для генерации пуш-уведомлений
 
 
-Запуск скрипта осуществляется через консоль комманда для запуска (пример): python client_product_recommendation.py --clients_dir ./clients --output recommendations.csv --fx_rates fx_rates.json
+Запуск скрипта осуществляется через консоль комманда для запуска (пример): 
+
+            python client_product_recommendation.py --clients_dir ./clients --output recommendations.csv --fx_rates fx_rates.json
 
 Параметр --clients_dir отвечает за путь к файлам информации о клиентах.
 
