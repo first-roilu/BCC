@@ -8,9 +8,9 @@
 
 Инструкция по использованию скрипта client_product_recommendation.py находится внутри но продублирую сюда на всякий случай
 
-#
-По мимо библиотек нужно установить локальную ИИ mistral через ollama для генерации пуш-уведомлений
-#
+
+***По мимо библиотек нужно установить локальную ИИ mistral через ollama для генерации пуш-уведомлений
+
 
 Запуск скрипта осуществляется через консоль комманда для запуска (пример): python client_product_recommendation.py --clients_dir ./clients --output recommendations.csv --fx_rates fx_rates.json
 
